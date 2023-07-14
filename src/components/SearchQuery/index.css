@@ -1,0 +1,12 @@
+.icon {
+  position: absolute;
+  top: 50%;
+  left: 95%;
+  transform: translate(100%, -50%);
+  color: #fff;
+  font-size: 20px;
+}
+
+input::placeholder {
+  color: #fff;
+}
